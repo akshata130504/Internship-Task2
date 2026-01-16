@@ -26,9 +26,6 @@ Java-Internship-Task-2
 ├── README.md
 └── Task2.pdf (Screenshots)
 
-yaml
-Copy code
-
 ---
 
 ## 🧩 Features Implemented
@@ -48,12 +45,12 @@ Copy code
 ## ▶️ How to Compile and Run
 Open Command Prompt / Terminal in the `src` directory and run:
 
-```bash
-javac CalculatorDemo.java
-java CalculatorDemo
-💻 Sample Console Output
-yaml
-Copy code
+  ```bash
+     javac CalculatorDemo.java
+     java CalculatorDemo
+
+## 💻Sample Console Output
+
 === Console Calculator ===
 Enter first number: 3
 Enter second number: 4
@@ -63,6 +60,8 @@ Result: 3.00 + 4.00 = 7.00
 Type Casting Examples:
 Double to int: 99
 Int to double: 1000.0
+
+
 🎯 Learning Outcomes
 Understood primitive vs non-primitive data types
 
