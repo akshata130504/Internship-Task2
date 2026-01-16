@@ -54,6 +54,7 @@ Java-Internship-Task-2
 ## Sample Console Output
 
 === Console Calculator ===
+
 Enter first number: 3
 
 Enter second number: 4
