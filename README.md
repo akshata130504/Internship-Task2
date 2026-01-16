@@ -43,13 +43,15 @@ Java-Internship-Task-2
 ---
 
 ## ▶️ How to Compile and Run
-Open Command Prompt / Terminal in the `src` directory and run:
+  Open Command Prompt / Terminal in the `src` directory and run:
 
-  ```bash
+     ```bash
      javac CalculatorDemo.java
      java CalculatorDemo
 
-## 💻Sample Console Output
+
+
+## Sample Console Output
 
 === Console Calculator ===
 Enter first number: 3
@@ -62,7 +64,8 @@ Double to int: 99
 Int to double: 1000.0
 
 
-🎯 Learning Outcomes
+## 🎯 Learning Outcomes
+
 Understood primitive vs non-primitive data types
 
 Learned variable scope (local, instance, static)
@@ -77,11 +80,4 @@ Used formatted output for professional console display
 
 Improved Java coding standards and project structure
 
-📸 Screenshots Included
-Project directory structure
-
-Java source code
-
-Console execution output
-(All screenshots are included in the PDF file.)
 
