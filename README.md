@@ -55,12 +55,17 @@ Java-Internship-Task-2
 
 === Console Calculator ===
 Enter first number: 3
+
 Enter second number: 4
+
 Choose operation (+ - * /): +
+
 Result: 3.00 + 4.00 = 7.00
 
 Type Casting Examples:
+
 Double to int: 99
+
 Int to double: 1000.0
 
 
